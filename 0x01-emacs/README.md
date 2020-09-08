@@ -1,0 +1,1 @@
+This has the basic commands for EMACS
